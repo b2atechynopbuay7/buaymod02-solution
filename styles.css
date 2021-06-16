@@ -33,14 +33,14 @@ body {
     .section-1{
         height: 30%;
        float: left;
-        margin: 6px;
+        margin: 7px;
         width: 50%;
         border: 2px black solid;
     }
     .section-2{
         height: 30%;
         float: right;
-        margin: 6px;
+        margin: 7px;
         width: 50%;
         border: 2px black solid;
     }
@@ -48,7 +48,7 @@ body {
     .section-3{
         height: 30%;
         /* float:bottom; */
-        margin: 6px;
+        margin: 7px;
         width: 100%;
         border: 2px black solid;
     }
